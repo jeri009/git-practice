@@ -1,0 +1,7 @@
+Git Practice Log
+
+1. Created a Git repository.
+2. Practiced staging files.
+3. Learned how to make commits.
+4. Connected a local repository to GitHub.
+5. Practiced pushing changes to a remote repository.
